@@ -9,7 +9,7 @@
 </p>
 
 <a href="https://may-sai.github.io/Portfolio-/">
-  <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-8B9EFF?style=for-the-badge&logo=googlechrome&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/🌐PORTFOLIO-8B9EFF?style=for-the-badge&logo=googlechrome&logoColor=white" height="45" />
 </a>
 
 <p>
