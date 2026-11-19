@@ -29,7 +29,7 @@
 
 <a id="english"></a>
 
-# 🇬🇧 English
+# English
 
 ## 👩‍💻 About Me
 
