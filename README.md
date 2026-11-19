@@ -126,7 +126,7 @@ Academic projects involving data processing, analysis and visualization.
 
 <a id="francais"></a>
 
-# 🇫🇷 Français
+#  Français
 
 ## 👩‍💻 À propos de moi
 
